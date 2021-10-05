@@ -20,7 +20,7 @@ public class drawingapp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Changing color");
+        System.out.println("Changing code");
         // TODO code application logic here
         Circle c=new Circle();
         rectangle r1=new rectangle();//creating a new object
